@@ -36,6 +36,8 @@ Created By [Ilyas BENHSSINE](https://github.com/IlyasDiker) & [Saad Kardoudi](ht
 
 Made with Love ❤.
 
+.SAAD KARDOUDI
+
 ## License
 
 --------------------
